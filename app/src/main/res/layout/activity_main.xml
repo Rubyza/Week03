@@ -18,7 +18,7 @@
             android:text="@string/display" />
 
         <EditText
-            android:id="@+id/textViewDisplay"
+            android:id="@+id/editTextInput"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="8"
@@ -29,7 +29,7 @@
     </LinearLayout>
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/textViewDisplay"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/display_what_the_user_enters" />
